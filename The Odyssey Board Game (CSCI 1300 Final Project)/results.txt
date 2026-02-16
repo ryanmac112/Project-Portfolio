@@ -1,0 +1,18 @@
+Player: Odysseus
+W/L: Winner
+Gold held: 0
+HP: 100
+Stamina: 97
+Equipped Inventory: 
+Bow of Odysseus
+Unequipped Inventory: 
+
+Player: Circe
+W/L: Loser
+Gold held: 65
+HP: 27.5
+Stamina: 59
+Equipped Inventory: 
+Circe's Wand
+Ciconian Spear
+Unequipped Inventory: 

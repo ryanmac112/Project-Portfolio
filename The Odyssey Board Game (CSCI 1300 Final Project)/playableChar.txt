@@ -1,0 +1,5 @@
+name|health|stamina|defense|condition|advantage|weakness|gold|starting items
+Odysseus|100|100|0|H|False|W|50|Greater Health Potion,Bow of Odysseus
+Argos|120|100|20|H|False|W|75|Greater Health Potion,Argos' Fangs
+Circe|110|110|10|H|False|E|75|Greater Health Potion,Circe's Wand
+Achilles|130|90|30|H|False|F|100|Greater Health Potion,Sword of Achilles

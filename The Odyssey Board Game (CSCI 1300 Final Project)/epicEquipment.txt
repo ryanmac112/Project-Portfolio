@@ -1,0 +1,4 @@
+name|description|type|effect value|element|price
+King's Blade|Increases damage by 60|D|60|E|0
+Fangs of Scylla|Increases damage by 60|D|60|E|0
+Cyclops Gaze|Increases damage by 50|D|50|A|0

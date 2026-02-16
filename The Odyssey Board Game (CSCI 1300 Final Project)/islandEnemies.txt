@@ -1,0 +1,8 @@
+name|hp|stamina|defense|condition|advantage|elemental weakness|gold|starting items
+Sirens|150|100|25|H|False|E|25|Greater Health Potion,Tidal Charm of the Sirens
+Giants|170|75|50|H|False|F|35|Greater Health Potion,Maul of the Giants
+Cicones|140|90|20|H|False|E|40|Greater Health Potion,Ciconian Spear
+Lotus Eaters|160|80|25|H|True|A|45|Greater Health Potion,Lotus Staff
+Laestrygonians|180|70|30|H|False|F|55|Greater Health Potion,Laestrygonian Club
+Circe's Enchantresses|200|60|35|H|True|E|65|Greater Health Potion,Enchanted Wand
+Calypso's Nymphs|220|50|40|H|True|W|75|Greater Health Potion,Nymph's Shield

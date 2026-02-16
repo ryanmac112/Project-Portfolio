@@ -1,0 +1,4 @@
+name|hp|stamina|defense|condition|advantage|elemental weakness|gold|starting items
+The Laestrygonian King|220|100|55|H|True|E|95|Greater Health Potion,King's Blade
+Scylla|200|75|75|H|True|E|100|Greater Health Potion,Fangs of Scylla
+Cyclops|200|75|75|H|True|E|100|Greater Health Potion,Cyclops Gaze
